@@ -8,5 +8,18 @@ Input:
 Output
    simple interest = p*t*r
 
+### Contribution
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](CONBUTING.md)
+
+### Code of Conduct
+
+[Code of conduct for this project](CODE_OF_CONDUCT.md)
+
+### License
+
+[License for this project](LICENSE)
+
+
+
+
